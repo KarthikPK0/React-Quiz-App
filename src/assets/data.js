@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What is ReactJS?",
+      option1: "A server-side framework",
+      option2: "A front-end JavaScript library",
+      option3: "A back-end JavaScript framework",
+      option4: "A database management system",
+      ans: 2,
+    },
+    {
+      question: "Which company developed ReactJS?",
+      option1: "Facebook",
+      option2: "Google",
+      option3: "Microsoft",
+      option4: "Apple",
+      ans: 1,
+    },
+    {
+      question: "What is JSX in ReactJS?",
+      option1: "A syntax extension for JavaScript",
+      option2: "A templating engine",
+      option3: "A state management library",
+      option4: " A build tool",
+      ans: 1,
+    },
+    {
+      question: " In React, what is used to pass data to a component from outside?",
+      option1: "setState",
+      option2: "props",
+      option3: "state",
+      option4: "getInitialState",
+      ans: 2,
+    },
+    {
+      question: "What is Redux in React?",
+      option1: "A state management library",
+      option2: "A form validation library",
+      option3: "A router library",
+      option4: " A build tool",
+      ans: 1,
+    },
+  ];
